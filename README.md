@@ -1,12 +1,12 @@
 ### Murilo Esteves Nogueira 👋
 
-- 🔭 Estudando programação e ethical hacking.
+- 🔭 Iniciante em programação e ethical hacking.
 - 🌱 Estudando linguagem C, python e redes.
 
 <div align="center">
   <a href="https://github.com/Muril0EN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muril0En&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muril0EN&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muril0En&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muril0EN&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
